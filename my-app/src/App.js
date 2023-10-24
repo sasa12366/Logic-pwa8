@@ -16,14 +16,14 @@ function App() {
 
         <a-nft
           type="nft"
-          url="https://bubleygum.github.io/Logic-pwa8/owl.fset"
+          url="https://bubleygum.github.io/Logic-pwa8/owl"
           smooth="true"
           smoothCount="10"
           smoothTolerance=".01"
           smoothThreshold="5"
         >
           <a-entity
-            gltf-model="test.gltf"
+            gltf-model="https://bubleygum.github.io/Logic-pwa8/test.gltf"
             scale="5 5 5"
             position="50 150 0"
           >

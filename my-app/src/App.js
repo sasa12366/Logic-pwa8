@@ -16,7 +16,7 @@ function App() {
 
         <a-nft
           type="nft"
-          url="https://bubleygum.github.io/Logic-pwa8/owl"
+          url="https://bubleygum.github.io/Logic-pwa8/owl.fset"
           smooth="true"
           smoothCount="10"
           smoothTolerance=".01"

@@ -16,14 +16,14 @@ function App() {
 
         <a-nft
           type="nft"
-          url="public/owl"
+          url="owl"
           smooth="true"
           smoothCount="10"
           smoothTolerance=".01"
           smoothThreshold="5"
         >
           <a-entity
-            gltf-model="public/test.gltf"
+            gltf-model="test.gltf"
             scale="5 5 5"
             position="50 150 0"
           >
